@@ -1,0 +1,12 @@
+.container{
+    max-width: 60rem;
+    margin: 0 auto;
+    padding: 0 3rem;
+}
+
+.error-msg{
+    color: whitesmoke;
+    font-style: italic;
+    margin: 0 0 0 2rem;
+    
+}

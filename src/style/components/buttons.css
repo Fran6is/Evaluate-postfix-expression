@@ -1,0 +1,10 @@
+.button {
+    background: darkorchid;
+    border: none;
+    border-bottom: .3rem solid rgb(73, 38, 90);
+    font-weight: 500;
+    padding: 1.2rem;
+    color: white;
+
+    font-family: monospace, Arial, Helvetica, sans-serif;
+}
