@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Postfix-exp/precache-manifest.eca8a3e93be31ff9cb18a778c8434ee6.js"
+  "/Postfix-exp/precache-manifest.73436b3a8e4be88d7504c6460781d185.js"
 );
 
 self.addEventListener('message', (event) => {

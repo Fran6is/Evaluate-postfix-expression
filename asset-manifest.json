@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Postfix-exp/static/css/main.f567a4ac.chunk.css",
-    "main.js": "/Postfix-exp/static/js/main.a3b60eab.chunk.js",
-    "main.js.map": "/Postfix-exp/static/js/main.a3b60eab.chunk.js.map",
+    "main.css": "/Postfix-exp/static/css/main.c1588d4e.chunk.css",
+    "main.js": "/Postfix-exp/static/js/main.c675e6ac.chunk.js",
+    "main.js.map": "/Postfix-exp/static/js/main.c675e6ac.chunk.js.map",
     "runtime-main.js": "/Postfix-exp/static/js/runtime-main.72cc9743.js",
     "runtime-main.js.map": "/Postfix-exp/static/js/runtime-main.72cc9743.js.map",
     "static/js/2.7a1c26f3.chunk.js": "/Postfix-exp/static/js/2.7a1c26f3.chunk.js",
     "static/js/2.7a1c26f3.chunk.js.map": "/Postfix-exp/static/js/2.7a1c26f3.chunk.js.map",
     "index.html": "/Postfix-exp/index.html",
-    "precache-manifest.eca8a3e93be31ff9cb18a778c8434ee6.js": "/Postfix-exp/precache-manifest.eca8a3e93be31ff9cb18a778c8434ee6.js",
+    "precache-manifest.73436b3a8e4be88d7504c6460781d185.js": "/Postfix-exp/precache-manifest.73436b3a8e4be88d7504c6460781d185.js",
     "service-worker.js": "/Postfix-exp/service-worker.js",
-    "static/css/main.f567a4ac.chunk.css.map": "/Postfix-exp/static/css/main.f567a4ac.chunk.css.map",
+    "static/css/main.c1588d4e.chunk.css.map": "/Postfix-exp/static/css/main.c1588d4e.chunk.css.map",
     "static/js/2.7a1c26f3.chunk.js.LICENSE": "/Postfix-exp/static/js/2.7a1c26f3.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.72cc9743.js",
     "static/js/2.7a1c26f3.chunk.js",
-    "static/css/main.f567a4ac.chunk.css",
-    "static/js/main.a3b60eab.chunk.js"
+    "static/css/main.c1588d4e.chunk.css",
+    "static/js/main.c675e6ac.chunk.js"
   ]
 }
